@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/taishan/taishan",
+    "pages/quancheng/quancheng",
+    "pages/taian/taian",
+    "pages/sankong/sankong"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#db1e06",
+    "navigationBarTitleText": "好客山东欢迎您",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#30bbad",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/home-off.png",
+        "selectedIconPath": "/images/home-on.png"
+      },
+      {
+        "pagePath": "pages/taishan/taishan",
+        "text": "泰山",
+        "iconPath": "/images/taishan-off.png",
+        "selectedIconPath": "/images/taishan-on.png"
+      },
+      {
+        "pagePath": "pages/quancheng/quancheng",
+        "text": "泉城",
+        "iconPath": "/images/quancheng-off.png",
+        "selectedIconPath": "/images/quancheng-on.png"
+      },
+      {
+        "pagePath": "pages/taian/taian",
+        "text": "泰安",
+        "iconPath": "/images/taian-off.png",
+        "selectedIconPath": "/images/taian-on.png"
+      },
+      {
+        "pagePath": "pages/sankong/sankong",
+        "text": "三孔",
+        "iconPath": "/images/sankong-off.png",
+        "selectedIconPath": "/images/sankong-on.png"
+      }
+    ]
+  }
+ 
+}

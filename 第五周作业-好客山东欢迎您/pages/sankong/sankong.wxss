@@ -1,0 +1,16 @@
+/* pages/sankong/sankong.wxss */
+.box{
+    font-size: larger;
+    font-weight: 700;
+    color:rgb(0, 0, 0);
+    letter-spacing: 5px;
+    text-align: center;
+    border-style:none;
+  }
+  .box1{
+    font-size: small;
+    text-indent: 30px;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    border-style:none;
+  }
